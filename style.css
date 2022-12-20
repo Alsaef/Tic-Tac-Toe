@@ -49,12 +49,16 @@
     cursor: pointer;
 }
 
-.playerX {
+.playerX{
     color: #09C372;
+    box-shadow: 0 0 5px #09C372,
+            0 0 19px #09C372;
 }
 
 .playerO {
     color: #498AFB;
+    box-shadow: 0 0 5px #498AFB,
+            0 0 19px #498AFB;
 }
 
 .controls {
